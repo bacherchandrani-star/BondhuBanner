@@ -19,8 +19,7 @@ import com.google.appinventor.components.runtime.ComponentContainer;
 import com.google.appinventor.components.runtime.EventDispatcher;
 
 @Extension(
-    description = "Bondhu Bazar Banner Extension",
-    version = 1
+    description = "Bondhu Bazar Banner Extension"
 )
 public class BondhuBanner extends AndroidNonvisibleComponent {
 
